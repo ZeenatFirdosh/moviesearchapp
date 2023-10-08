@@ -1,10 +1,9 @@
-# moviesearchapp
+![image](https://github.com/ZeenatFirdosh/moviesearchapp/assets/100707152/4014055f-d27a-4660-8f6c-35ef3f0b168e)# moviesearchapp
 
 ## Live Demo : https://moviesearchapp-two.vercel.app/
 
 ![image](https://github.com/ZeenatFirdosh/moviesearchapp/assets/100707152/97a0d93c-7812-4912-adc2-1f42d1b7f7a5)
-
-![Uploading image.png…]()
+![image](https://github.com/ZeenatFirdosh/moviesearchapp/assets/100707152/c61ede3b-9ccf-4180-9b80-0a586a56cdd7)
 
 Implemented a user-friendly interface for users to search for movies by title.</br>
 Utilized an API to retrieve data and display information about movies.</br>
